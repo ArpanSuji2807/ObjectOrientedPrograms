@@ -1,0 +1,17 @@
+[
+  {
+    "StockName": "TataSteel",
+    "StockPrice": 20,
+    "Shares": 100
+  },
+  {
+    "StockName": "Reliance",
+    "StockPrice": 50,
+    "Shares": 80
+  },
+  {
+    "StockName": "HDFC",
+    "StockPrice": 25,
+    "Shares": 60
+  }
+]
